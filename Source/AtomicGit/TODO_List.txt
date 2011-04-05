@@ -1,0 +1,13 @@
+TODO List
+----------
+Have batch file read a config file
+ - Config file has things like git username, special directories, etc
+
+Have install create a config file
+
+Install file should be more general
+
+Edit all current scripts to work on all windows patforms listed as compatable
+ - Windows XP (x86)  //Who cares about (x64 xp users... get a real OS)
+ - Windows Vista (x86 & x64)
+ - Windows 7 (x86 & x64)
